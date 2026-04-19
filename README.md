@@ -36,7 +36,7 @@ Create the `AI_Models` folder if it doesn't exist. The script will auto-detect a
 ### 3. Run the Installer
 Open Termux and paste:
 ```bash
-curl -fsSL https://github.com/kun1gund3/termux-llm-gguf-local-android/main/install.sh -o ~/install.sh && bash ~/install.sh
+curl -fsSL https://github.com/kun1gund3/termux-llm-gguf-local-android/blob/main/install.sh -o ~/install.sh && bash ~/install.sh
 ```
 
 Or if you downloaded the script manually:
