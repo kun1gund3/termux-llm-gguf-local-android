@@ -29,6 +29,8 @@ Download any `.gguf` model file and place it in your phone's storage:
 /sdcard/AI_Models/
 ```
 
+https://huggingface.co/bartowski
+
 Create the `AI_Models` folder if it doesn't exist. The script will auto-detect all `.gguf` files in this folder.
 
 ### 3. Run the Installer
