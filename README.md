@@ -2,10 +2,6 @@
 
 Run uncensored AI models locally on your Android phone. One-script setup via Termux + llama.cpp. **No root, no cloud, no internet needed** after setup.
 
-## 📺 Watch the Tutorial
-
-[![Termux LLM Tutorial](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
-
 ## ⚡ How It Works
 
 ```
